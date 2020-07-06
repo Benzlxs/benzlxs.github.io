@@ -14,29 +14,29 @@ Related links: [Email](xuesong.li@unsw.edu.au) / [Google Scholar](https://schola
 
 
 ## Reasearch
-1. [**Real-time 3D object proposal generation and classification using limited processing resources**](https://www.sciencedirect.com/science/article/pii/S0921889020303973), 
+* [**Real-time 3D object proposal generation and classification using limited processing resources**](https://www.sciencedirect.com/science/article/pii/S0921889020303973), 
    
    **Xuesong Li**, Jose Guivant and Subhan Khan, *Robotics and Autonomous Systems*, 130, 103557. ![](./image/30.gif)
 
 
-2. [**Efficient and accurate object detection withsimultaneous classification and tracking**](https://arxiv.org/abs/1901.08373), 
+* [**Efficient and accurate object detection withsimultaneous classification and tracking**](https://arxiv.org/abs/1901.08373), 
    
    **Xuesong Li** and Jose Guivant. *IEEE Transactions on Intelligent Transportation Systems* (under review), 2020 ![](./image/pag_figure.png)
 
 
-3. [**Detection of imaged objects withestimated scales**](https://www.scitepress.org/Link.aspx?doi=10.5220/0007353600390047), 
+* [**Detection of imaged objects withestimated scales**](https://www.scitepress.org/Link.aspx?doi=10.5220/0007353600390047), 
   
    **Xuesong Li**, Ngaiming Kwok, Jose Guivant, etc. *Proceedings of VISAPP*, 5, 39-47, 2019. 
    
     ![](./image/25.gif)
 
 
-4. [**Three-dimensional backbone network for 3D object detection in traffic scenes**](https://arxiv.org/pdf/1901.08373.pdf), 
+* [**Three-dimensional backbone network for 3D object detection in traffic scenes**](https://arxiv.org/pdf/1901.08373.pdf), 
 
    **Xuesong Li**, Jose Guivant, Ngaiming Kwok, etc. https://arxiv.org/pdf/1901.08373.pdf, *IEEE Transportation Systems Magazine* (2nd review) 2019. ![](./image/3d_backbone_network.png)
 
 
-5. [**Efficient methods using slanted support windows for slanted surfaces**](https://digital-library.theiet.org/content/journals/10.1049/iet-cvi.2015.0106),
+* [**Efficient methods using slanted support windows for slanted surfaces**](https://digital-library.theiet.org/content/journals/10.1049/iet-cvi.2015.0106),
 
    **Xuesong Li**, Jianguo Liu, Guang Chen, etc.  *IET Computer Vision*, 10, 384-391(7), 2016 ![](./image/stereo_matching.png)
 
