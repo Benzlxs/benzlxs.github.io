@@ -16,4 +16,5 @@ include:
   - LICENSE.md
 
 # theme: jekyll-theme-tactile
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
