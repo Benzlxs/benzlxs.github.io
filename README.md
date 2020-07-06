@@ -12,7 +12,7 @@ Related links: [Email](xuesong.li@unsw.edu.au) / [Google Scholar](https://schola
 * *2020-04-05* --- One journal paper, *Efficient and accurate object detection with simultaneous classification and tracking*, was submitted to *IEEE Transactions on Intelligent Transportation Systems* and *arxiv*;
 
 ## Reasearch
-1. [**Real-time 3D object proposal generation and classification using limited processing resources**], **Xuesong Li**, Jose Guivant and Subhan Khan, *Robotics and Autonomous Systems*, 130, 103557 
+1. [**Real-time 3D object proposal generation and classification using limited processing resources**](https://www.sciencedirect.com/science/article/pii/S0921889020303973), **Xuesong Li**, Jose Guivant and Subhan Khan, *Robotics and Autonomous Systems*, 130, 103557 
 <img src="https://github.com/Benzlxs/benzlxs.github.io/blob/master/image/30.gif" width="800" height="300">
 
 2. [**Efficient and accurate object detection withsimultaneous classification and tracking**](https://arxiv.org/abs/1901.08373), **Xuesong Li** and Jose Guivant; 
