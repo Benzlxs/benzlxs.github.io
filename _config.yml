@@ -16,4 +16,4 @@ include:
   - LICENSE.md
 
 # theme: jekyll-theme-tactile
-theme: jekyll-theme-modernist
+theme: jekyll-theme-cayman
