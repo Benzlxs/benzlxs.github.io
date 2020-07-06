@@ -16,4 +16,4 @@ include:
   - LICENSE.md
 
 # theme: jekyll-theme-tactile
-theme: jekyll-theme-architect
+theme: jekyll-theme-midnight
