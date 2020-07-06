@@ -20,11 +20,11 @@ Related links: [Email](xuesong.li@unsw.edu.au) / [Google Scholar](https://schola
 
 2. [**Efficient and accurate object detection withsimultaneous classification and tracking**](https://arxiv.org/abs/1901.08373), 
    
-   **Xuesong Li** and Jose Guivant. *IEEE Transactions on Intelligent Transportation Systems* (under review) ![](./image/pag_figure.png)
+   **Xuesong Li** and Jose Guivant. *IEEE Transactions on Intelligent Transportation Systems* (under review), 2020 ![](./image/pag_figure.png)
 
 3. [**Detection of imaged objects withestimated scales**](https://www.scitepress.org/Link.aspx?doi=10.5220/0007353600390047), 
   
-   **Xuesong Li**, Ngaiming Kwok, Jose Guivant, etc. Proceedings of VISAPP, 5, 39-47, 2019. 
+   **Xuesong Li**, Ngaiming Kwok, Jose Guivant, etc. *Proceedings of VISAPP*, 5, 39-47, 2019. 
    
     ![](./image/25.gif)
 
@@ -32,7 +32,8 @@ Related links: [Email](xuesong.li@unsw.edu.au) / [Google Scholar](https://schola
 
    **Xuesong Li**, Jose Guivant, Ngaiming Kwok, etc. https://arxiv.org/pdf/1901.08373.pdf, *IEEE Transportation Systems Magazine* (2nd review) 2019. ![](./image/3d_backbone_network.png)
 
-
+5. [**Efficient methods using slanted support windows for slanted surfaces**](https://digital-library.theiet.org/content/journals/10.1049/iet-cvi.2015.0106),
+   **Xuesong Li**, Jianguo Liu, Guang Chen, etc.  *IET Computer Vision*, 10, 384-391(7), 2016 ![](./image/stereo_matching.png)
 
 ## Teaching
 
