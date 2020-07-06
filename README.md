@@ -16,9 +16,7 @@ Related links: [Email](xuesong.li@unsw.edu.au) / [Google Scholar](https://schola
 
 2. [**Efficient and accurate object detection withsimultaneous classification and tracking**](https://arxiv.org/abs/1901.08373), **Xuesong Li** and Jose Guivant. ![](./image/pag_figure.png)
 
-3. [**Detection of imaged objects withestimated scales**](https://www.scitepress.org/Link.aspx?doi=10.5220/0007353600390047), **Xuesong Li**, Ngaiming Kwok, Jose Guivant, etc. Proceedings of VISAPP, 5, 39-47, 2019. 
-
-![](./image/25.gif)
+3. [**Detection of imaged objects withestimated scales**](https://www.scitepress.org/Link.aspx?doi=10.5220/0007353600390047), **Xuesong Li**, Ngaiming Kwok, Jose Guivant, etc. Proceedings of VISAPP, 5, 39-47, 2019. ![](./image/25.gif)
 
 
 
