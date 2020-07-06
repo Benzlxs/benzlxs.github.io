@@ -1,3 +1,10 @@
+
+title: Xuesong (Benjamin) Li
+
+description: A personnel page
+
+author: Xuesong Li
+
 plugins:
   - jekyll-relative-links
 relative_links:
