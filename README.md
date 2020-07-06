@@ -42,13 +42,8 @@ Related links: [Email](xuesong.li@unsw.edu.au) / [Google Scholar](https://schola
 
 
 ## Teaching
+* **Term1 2020**, Lead tutor, [Advanced Autonomous System (MTRN4010)](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/MTRN4010) in University of New South Wales;
+* **Term1 2019**, Guest Lecturer on Neural network, [Advanced Autonomous System (MTRN4010)](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/MTRN4010) in University of New South Wales;
+* **Term1 2018, 2019**, Tutor, [Advanced Autonomous System (MTRN4010)](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/MTRN4010) in University of New South Wales;
+* **Term2 2018, Term3 2019**, Tutor, [Optimisation Methods for Engineering Systems (MTRN4030)](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/MTRN4030) in University of New South Wales; 
 
-
-
-## Contributing
-
-See the [Contribution Guide](./CONTRIBUTING.md).
-
-## License
-
-See the [License File](./LICENSE.md).
