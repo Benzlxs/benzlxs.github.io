@@ -3,8 +3,8 @@ I am a Ph.D. student in [Mechatronic Enginneering](https://www.engineering.unsw.
 
 
 ## Latest news
-* *2020-06-28* I submitted my Ph.D. Thesis, named *Object detection for intelligent robots in urban contexts*;
-* *2020-04-05* One journal paper, *Efficient and accurate object detection with simultaneous classification and tracking*, was submitted to *IEEE Transactions on Intelligent Transportation Systems* and *arxiv*;
+* *2020-06-28* -- I submitted my Ph.D. Thesis, named *Object detection for intelligent robots in urban contexts*;
+* *2020-04-05* -- One journal paper, *Efficient and accurate object detection with simultaneous classification and tracking*, was submitted to *IEEE Transactions on Intelligent Transportation Systems* and *arxiv*;
 * second review of paper
 * accepted one paper
 
