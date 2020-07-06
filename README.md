@@ -13,7 +13,8 @@ Related links: [Email](xuesong.li@unsw.edu.au) / [Google Scholar](https://schola
 
 ## Reasearch
 1. [**Efficient and accurate object detection withsimultaneous classification and tracking**](https://arxiv.org/abs/1901.08373), **Xuesong Li** and Jose Guivant;
-![](./pag_figure.jpg)
+
+<img src="https://github.com/Benzlxs/benzlxs.github.io/blob/master/image/pag_figure.pngf" width="400" height="200">
 
 
 
