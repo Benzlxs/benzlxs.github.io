@@ -6,7 +6,7 @@ Related links: [Email](xuesong.li@unsw.edu.au) / [Google Scholar](https://schola
 
 
 ## Latest news
-* *2020-06-28* --- I submitted my Ph.D. Thesis, named *Object detection for intelligent robots in urban contexts*;
+* *2020-06-28* --- I submitted my Ph.D. dissertation, named *Object detection for intelligent robots in urban contexts*;
 * *2020-05-01* --- My journal paper, *[Three-dimensional Backbone Network for 3D Object Detection in Traffic Scenes](https://arxiv.org/abs/1901.08373)* for *IEEE Transportation Systems Magazine*, was under the second review;
 * *2020-04-29* --- One of my journal papers, *[Real-time 3D object proposal generation and classification using limited processing resources](https://www.sciencedirect.com/science/article/pii/S0921889020303973)*, was accetped by "Robotics and Autonomous Systems";
 * *2020-04-05* --- One journal paper, *Efficient and accurate object detection with simultaneous classification and tracking*, was submitted to *IEEE Transactions on Intelligent Transportation Systems* and *arxiv*;
