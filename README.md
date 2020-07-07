@@ -13,7 +13,7 @@ Related links: [Email](xuesong.li@unsw.edu.au) / [Google Scholar](https://schola
 
 
 
-## Reasearch
+## Research
 * [**Real-time 3D object proposal generation and classification using limited processing resources**](https://www.sciencedirect.com/science/article/pii/S0921889020303973), 
    
    **Xuesong Li**, Jose Guivant and Subhan Khan, *Robotics and Autonomous Systems*, 130, 103557. ![](./image/30.gif)
