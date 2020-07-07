@@ -9,7 +9,7 @@ Related links: [Email](xuesong.li@unsw.edu.au) / [Google Scholar](https://schola
 * *2020-06-28* --- I submitted my Ph.D. dissertation, named *Object detection for intelligent robots in urban contexts*;
 * *2020-05-01* --- My journal paper, *[Three-dimensional Backbone Network for 3D Object Detection in Traffic Scenes](https://arxiv.org/abs/1901.08373)* for *IEEE Transportation Systems Magazine*, was under the second review;
 * *2020-04-29* --- One of my journal papers, *[Real-time 3D object proposal generation and classification using limited processing resources](https://www.sciencedirect.com/science/article/pii/S0921889020303973)*, was accetped by "Robotics and Autonomous Systems";
-* *2020-04-05* --- One journal paper, *Efficient and accurate object detection with simultaneous classification and tracking*, was submitted to *IEEE Transactions on Intelligent Transportation Systems* and *arxiv*;
+* *2020-04-05* --- One journal paper, *[Efficient and accurate object detection with simultaneous classification and tracking](http://arxiv.org/abs/2007.02065)*, was submitted to *IEEE Transactions on Intelligent Transportation Systems* and *arxiv*;
 
 
 
@@ -19,9 +19,9 @@ Related links: [Email](xuesong.li@unsw.edu.au) / [Google Scholar](https://schola
    **Xuesong Li**, Jose Guivant and Subhan Khan, *Robotics and Autonomous Systems*, 130, 103557. ![](./image/30.gif)
 
 
-* [**Efficient and accurate object detection withsimultaneous classification and tracking**](https://arxiv.org/abs/1901.08373), 
+* [**Efficient and accurate object detection withsimultaneous classification and tracking**](http://arxiv.org/abs/2007.02065), 
    
-   **Xuesong Li** and Jose Guivant. *IEEE Transactions on Intelligent Transportation Systems* (under review), 2020 ![](./image/pag_figure.png)
+   **Xuesong Li** and Jose Guivant. http://arxiv.org/abs/2007.02065, *IEEE Transactions on Intelligent Transportation Systems* (under review), 2020 ![](./image/pag_figure.png)
 
 
 * [**Detection of imaged objects withestimated scales**](https://www.scitepress.org/Link.aspx?doi=10.5220/0007353600390047), 
