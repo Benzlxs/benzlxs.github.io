@@ -7,6 +7,7 @@ Related links: [Google Scholar](https://scholar.google.com/citations?user=HIeMGx
 
 
 ## Latest news
+* *2020-07-18* --- One of my journal papers, *Design and Experimental Validation of Robust Model Predictive Control for the Optimal Trajectory-Tracking of a low-scale autonomous Bulldozer* was submitted to *European Journal of Control*;
 * *2020-07-11* --- One of my journal papers, *3D object detection with deep neural network for automatic as-built reconstruction* was under the second review for *Journal of Construction Engineering and Management*;
 * *2020-06-28* --- I have submitted my Ph.D. dissertation, named *Object detection for intelligent robots in urban contexts*;
 * *2020-05-01* --- My journal paper, *[Three-dimensional backbone network for 3D object detection in traffic scenes](https://arxiv.org/abs/1901.08373)* for *IEEE Transportation Systems Magazine*, was under the second review;
