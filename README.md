@@ -45,7 +45,7 @@ Related links: [Google Scholar](https://scholar.google.com/citations?user=HIeMGx
 
 
 ## Teaching
-* *Term1 2020*, **Lead tutor**, [Advanced Autonomous System (MTRN4010)](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/MTRN4010) in University of New South Wales;
+* *Term1 2020*, **Lead Tutor**, [Advanced Autonomous System (MTRN4010)](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/MTRN4010) in University of New South Wales;
 * *Term3 2019*, **Lead Tutor**, [Optimisation Methods for Engineering Systems (MTRN4030)](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/MTRN4030) in University of New South Wales; 
 * *Term1 2019*, **Guest Lecturer** on Neural network, [Advanced Autonomous System (MTRN4010)](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/MTRN4010) in University of New South Wales;
 * *Term1 2018, 2019*, **Tutor**, [Advanced Autonomous System (MTRN4010)](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/MTRN4010) in University of New South Wales;
