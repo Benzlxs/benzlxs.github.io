@@ -29,7 +29,7 @@ Related links: [Google Scholar](https://scholar.google.com/citations?user=HIeMGx
    **Xuesong Li** and Jose Guivant. http://arxiv.org/abs/2007.02065, *IEEE Transactions on Intelligent Transportation Systems* (under review), 2020 ![](./image/pag_figure.png)
 
 
-* [**Detection of imaged objects withestimated scales**](https://www.scitepress.org/Link.aspx?doi=10.5220/0007353600390047), 
+* [**Detection of imaged objects with estimated scales**](https://www.scitepress.org/Link.aspx?doi=10.5220/0007353600390047), 
   
    **Xuesong Li**, Ngaiming Kwok, Jose Guivant, etc. *Proceedings of VISAPP*, 5, 39-47, 2019. 
    
