@@ -55,7 +55,7 @@ Related links: [Google Scholar](https://scholar.google.com/citations?user=HIeMGx
 
 
 ## Blogs
-* *2020-12-04* [Systmatic knowledge on automated system](./blogs/systematic_knowledge)
+* *2020-12-04* [Systmatic knowledge on automated system](./blogs/systematic_knowledge/)
 
 
 
