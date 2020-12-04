@@ -53,3 +53,9 @@ Related links: [Google Scholar](https://scholar.google.com/citations?user=HIeMGx
 * *Term1 2018, 2019*, **Tutor**, [Advanced Autonomous System (MTRN4010)](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/MTRN4010) in University of New South Wales;
 * *Term2 2018*, **Tutor**, [Optimisation Methods for Engineering Systems (MTRN4030)](https://www.handbook.unsw.edu.au/undergraduate/courses/2020/MTRN4030) in University of New South Wales; 
 
+
+## Blogs
+* *2020-12-04* [Systmatic knowledge on automated system](./blogs/automated_system.md)
+
+
+
