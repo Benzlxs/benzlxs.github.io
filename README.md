@@ -9,7 +9,7 @@ Related links: [Google Scholar](https://scholar.google.com/citations?user=HIeMGx
 
 
 ## Latest news
-* *2021-03-16* --- I joined the [Huawei technologies co., ltd.](https://www.huawei.com/en/technology-insights/publications/huawei-tech/87/moving-towards-autonomous-driving-networks) as the research engineer, doing researches on perception system for autonomous robots;
+* *2021-03-16* --- I joined the [Huawei technologies co., ltd.](https://www.huawei.com/us/fully-connected-intelligent-world) as the research engineer, doing researches on perception system for autonomous robots;
 * *2021-01-17* --- My journal papers, *[Efficient and accurate object detection with simultaneous classification and tracking](http://arxiv.org/abs/2007.02065)*, was under the second review;
 * *2020-10-05* --- One of my journal papers, *3D object detection with deep neural network for automatic as-built reconstruction* has been accepted by *Journal of Construction Engineering and Management*;
 * *2020-07-18* --- One of my journal papers, *Design and Experimental Validation of Robust Model Predictive Control for the Optimal Trajectory-Tracking of a low-scale autonomous Bulldozer* was submitted to *European Journal of Control*;
