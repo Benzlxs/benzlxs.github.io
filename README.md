@@ -4,7 +4,7 @@ Research interests:  **Object detection**, **SLAM**, **Optimization**, **Deep le
 
 E-mail: *xuesong.li@unsw.edu.au*, *benzlee08@gmail.com*, *benzlxs@163.com*  
 
-Related links: [Google Scholar](https://scholar.google.com/citations?user=HIeMGxcAAAAJ) / [Github](https://github.com/Benzlxs) / [Linkedin](https://www.linkedin.com/in/xuesong-li-a0b23516b/)
+Related links: [Google Scholar](https://scholar.google.com/citations?user=HIeMGxcAAAAJ) / [Github](https://github.com/Benzlxs) / [Linkedin](https://www.linkedin.com/in/Benzlxs/)
 
 
 
