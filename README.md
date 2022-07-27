@@ -59,6 +59,7 @@ Related links: [Google Scholar](https://scholar.google.com/citations?user=HIeMGx
 
 
 ## Blogs
+* *2021-05-04* [My toy reposity about auto-differentitation is open, it is more about how autograd works in Pytorch.](https://github.com/Benzlxs/autograd)
 * *2020-12-04* [Systmatic knowledge on automated system](./blogs/systematic_knowledge/)
 
 
